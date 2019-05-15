@@ -70,7 +70,6 @@ sharply
 sheepishly
 silently
 sleepily
-slowly
 sometimes
 strictly
 successfully 

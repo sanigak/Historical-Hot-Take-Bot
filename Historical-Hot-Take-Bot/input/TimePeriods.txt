@@ -1,12 +1,12 @@
 Pre-History
 The Stone Age
-The Lower Paleolithic era
-The Middle Paleolithic era
-The Upper Paleolithic era
-The Mesolithic era
-The Epipaleolithic era
-The Neolithic era
-The Chalcolithic era
+The Lower Paleolithic Era
+The Middle Paleolithic Era
+The Upper Paleolithic Era
+The Mesolithic Era
+The Epipaleolithic Era
+The Neolithic Era
+The Chalcolithic Era
 Ancient History
 The Bronze Age
 The Iron Age
@@ -21,9 +21,12 @@ The Space Age
 The Information Age
 The Multimedia Age
 The Social Age
-The Big Data age
-The Reconstruction era
+The Big Data Age
+The Reconstruction Era
 The Gilded Age
 The Progressive Era
 The Jazz Age
 The Information Age
+The Industrial Revolution
+The First Industrial Revolution
+The Second Industrial Revolution

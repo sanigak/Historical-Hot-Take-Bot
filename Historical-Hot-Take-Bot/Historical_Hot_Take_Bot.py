@@ -19,7 +19,7 @@ def PeopleOfCountryGenerator():
     input = open("input\Countries.txt","r")
     list = input.readlines()
     country = random.choice(list).rstrip()
-    people = "The people of " + country
+    people = "The People of " + country
     return people
 
 def CurrencyGenerator():
@@ -56,7 +56,7 @@ def IndustryGenerator():
     input = open("input\Industries.txt","r")
     list = input.readlines()
     industry = random.choice(list).rstrip()
-    industry = "The " + industry + " industry"
+    industry = "the " + industry + " industry"
     return industry
 
 def ComplexGenerator():
@@ -65,7 +65,7 @@ def ComplexGenerator():
     list = input.readlines()
     first = random.choice(list).rstrip()
     second = random.choice(list).rstrip()
-    complex = "The " + first + "-" + second + "-complex"
+    complex = "the " + first + "-" + second + "-complex"
     return complex
 
 def MonarchGenerator():
@@ -78,7 +78,7 @@ def MonarchyGenerator():
     input = open("input\Monarchs.txt","r")
     list = input.readlines()
     monarch = random.choice(list).rstrip()
-    monarch = "The reign of " + monarch
+    monarch = "the reign of " + monarch
     return monarch
 
 def PresidentGenerator():
@@ -93,14 +93,14 @@ def PresidencyGenerator():
     input = open("input\Presidents.txt","r")
     list = input.readlines()
     pres = random.choice(list).rstrip()
-    presidency = "The Presidency of " + pres
+    presidency = "the Presidency of " + pres
     return presidency
 
 def PremiershipGenerator():
     input = open("input\PresidentsButCanada.txt","r")
     list = input.readlines()
     prem = random.choice(list).rstrip()
-    premship = "The Premiership of " + prem
+    premship = "the Premiership of " + prem
     return premship
 
 def TimeGenerator():
