@@ -10,7 +10,6 @@ Canute
 Harold Harefoot
 Harthacanute
 St Edward the Confessor
-Edgar
 Alexander I
 Edgar the Atheling
 Henry I
@@ -25,7 +24,6 @@ Alexander II
 Henry III
 Margaret
 Edward I"Longshanks"
-John
 Robert I
 Edward Balliol
 David II
@@ -46,7 +44,6 @@ James VI & I
 Charles II
 James II & VII
 Mary II
-Anne
 George I
 George II
 George III
@@ -75,7 +72,6 @@ Duncan II
 Edward II
 James I
 Henry VI
-Jane
 Mary I
 Charles I
 George V
@@ -89,3 +85,50 @@ Charles II
 Charles III
 Charles IV
 Isabella II
+Augustus
+Tiberius
+Caligula
+Claudius
+Nero
+Galba
+Aulus Vitellius
+Vespasian
+Domitian
+Nerva 
+Trajan
+Hadrian 
+Antoninus Pius 
+Marcus Aurelius
+Lucius Verus 
+Commodus 
+Publius Helvius Pertinax 
+Marcus Didius Severus Julianus 
+Septimius Severus 
+Caracalla 
+Publius Septimius Geta
+Macrinus 
+Elagabalus 
+Severus Alexander
+Maximinus 
+Gordian I 
+Gordian II 
+Pupienus Maximus 
+Balbinus 
+Gordian III 
+Philip 
+Decius 
+Hostilian 
+Gallus 
+Aemilian 
+Valerian
+Gallienus 
+Claudius II Gothicus 
+Quintillus 
+Aurelian 
+Tacitus 
+Florian 
+Probus 
+Carus 
+Numerian
+Carinus 
+Diocletian

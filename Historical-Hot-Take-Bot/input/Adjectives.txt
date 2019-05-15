@@ -56,7 +56,6 @@ blah
 a bummer
 diddly
 diddly-doodly
-downer
 garbage
 gross
 imperfect
@@ -95,6 +94,7 @@ unsatisfactory
 scary
 alarming
 chilling
+chill
 creepy
 eerie
 hairy

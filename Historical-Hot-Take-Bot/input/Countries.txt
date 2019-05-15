@@ -1,5 +1,5 @@
 Afghanistan
-Åland Islands
+The Åland Islands
 Albania
 Algeria
 American Samoa
@@ -29,8 +29,8 @@ Bolivia
 Bosnia & Herzegovina
 Botswana
 Brazil
-British Indian Ocean Territory
-British Virgin Islands
+The British Indian Ocean Territory
+The British Virgin Islands
 Brunei
 Bulgaria
 Burkina Faso
@@ -38,21 +38,21 @@ Burundi
 Cambodia
 Cameroon
 Canada
-Canary Islands
+The Canary Islands
 Cape Verde
 Caribbean Netherlands
-Cayman Islands
+The Cayman Islands
 Central African Republic
 Ceuta & Melilla
 Chad
 Chile
 China
 Christmas Island
-Cocos (Keeling) Islands
+The Cocos (Keeling) Islands
 Colombia
 Comoros
 Congo
-Cook Islands
+The Cook Islands
 Costa Rica
 Côte d’Ivoire
 Croatia
@@ -73,14 +73,14 @@ Eritrea
 Estonia
 Ethiopia
 Eurozone
-Falkland Islands
-Faroe Islands
+The Falkland Islands
+The Faroe Islands
 Fiji
 Finland
 France
 French Guiana
 French Polynesia
-French Southern Territories
+The French Southern Territories
 Gabon
 Gambia
 Georgia
@@ -137,7 +137,7 @@ Malaysia
 Maldives
 Mali
 Malta
-Marshall Islands
+The Marshall Islands
 Martinique
 Mauritania
 Mauritius
@@ -164,18 +164,18 @@ Nigeria
 Niue
 Norfolk Island
 North Korea
-Northern Mariana Islands
+The Northern Mariana Islands
 Norway
 Oman
 Pakistan
 Palau
-Palestinian Territories
+The Palestinian Territories
 Panama
 Papua New Guinea
 Paraguay
 Peru
 Philippines
-Pitcairn Islands
+The Pitcairn Islands
 Poland
 Portugal
 Puerto Rico
@@ -231,10 +231,10 @@ Tristan da Cunha
 Tunisia
 Turkey
 Turkmenistan
-Turks & Caicos Islands
+The Turks & Caicos Islands
 Tuvalu
-U.S. Outlying Islands
-U.S. Virgin Islands
+The U.S. Outlying Islands
+The U.S. Virgin Islands
 Uganda
 Ukraine
 United Arab Emirates
@@ -244,7 +244,7 @@ United States
 Uruguay
 Uzbekistan
 Vanuatu
-Vatican City
+The Vatican City
 Venezuela
 Vietnam
 Wallis & Futuna

@@ -22,6 +22,7 @@ curiously
 deceivingly
 deeply
 defiantly
+definitely
 deliberately
 delightfully
 dimly
@@ -33,6 +34,8 @@ ferociously
 fervently
 fiercely 
 highly 
+hardly
+heartily
 instantly
 intensely 
 justly

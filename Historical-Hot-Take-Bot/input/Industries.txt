@@ -1,7 +1,7 @@
 accommodation
 accommodation
 food
-administrative
+administratiion
 agriculture
 forestry
 fishing
@@ -25,8 +25,7 @@ credit
 crop
 data
 education
-educational
-electrical
+electric
 electronics
 finance
 fishing
