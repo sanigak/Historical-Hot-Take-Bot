@@ -23,6 +23,27 @@
   <ItemGroup>
     <Compile Include="Historical_Hot_Take_Bot.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="input\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="input\Countries.txt" />
+    <Content Include="input\Currencies.txt" />
+    <Content Include="input\Empires.txt" />
+    <Content Include="input\Adjectives.txt" />
+    <Content Include="input\Industries.txt" />
+    <Content Include="input\Monarchs.txt" />
+    <Content Include="input\Monopoly.txt" />
+    <Content Include="input\PresidentsButCanada.txt" />
+    <Content Include="input\Presidents.txt" />
+    <Content Include="input\Adverbs.txt" />
+    <Content Include="input\Intros.txt" />
+    <Content Include="input\CurrenciesModifiers.txt" />
+    <Content Include="input\EmpiresModifiers.txt" />
+    <Content Include="input\WarsModifiers.txt" />
+    <Content Include="input\TimePeriods.txt" />
+    <Content Include="input\Wars.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
