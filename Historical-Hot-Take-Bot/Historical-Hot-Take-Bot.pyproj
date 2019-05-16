@@ -40,9 +40,11 @@
     <Content Include="input\Intros.txt" />
     <Content Include="input\CurrenciesModifiers.txt" />
     <Content Include="input\EmpiresModifiers.txt" />
+    <Content Include="input\Historians.txt" />
     <Content Include="input\WarsModifiers.txt" />
     <Content Include="input\TimePeriods.txt" />
     <Content Include="input\Wars.txt" />
+    <Content Include="input\HistoriansModifiers.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

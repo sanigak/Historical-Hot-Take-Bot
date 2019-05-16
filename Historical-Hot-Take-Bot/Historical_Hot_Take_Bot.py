@@ -2,10 +2,21 @@ import random
 
 
 def IntroGenerator():
-    input = open("input\Intros.txt","r")
-    list = input.readlines()
-    intro = random.choice(list).rstrip()
-    return intro
+    chance = random.randint(1,4)
+    if chance > 1:
+        input = open("input\Intros.txt","r")
+        list = input.readlines()
+        intro = random.choice(list).rstrip()
+        return intro
+    else:
+        input1 = open("input\Historians.txt","r")
+        list1 = input1.readlines()
+        hist = random.choice(list1).rstrip()
+        input2 = open("input\HistoriansModifiers.txt","r")
+        list2 = input2.readlines()
+        phrase = random.choice(list2).rstrip()
+        ans = phrase.replace("BLANK",hist)
+        return ans
 
 
 #SUBECTS
@@ -203,7 +214,6 @@ def GenerateHotTake():
     return ans
 
 
+take = GenerateHotTake()
 
-
-
-print(GenerateHotTake())
+print(take)
