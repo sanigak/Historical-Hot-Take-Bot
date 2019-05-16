@@ -63,6 +63,12 @@ def EmpireGeneratorMod():
     empireMod = mod + " " + empire
     return empireMod
 
+def HistorianGenerator():
+    input = open("input\Historians.txt","r")
+    list = input.readlines()
+    historian = random.choice(list).rstrip()
+    return historian
+
 def IndustryGenerator():
     input = open("input\Industries.txt","r")
     list = input.readlines()
@@ -146,6 +152,7 @@ def RandSubject1():
     listy.append(CurrencyGeneratorMod())
     #listy.append(EmpireGenerator())
     listy.append(EmpireGeneratorMod())
+    #listy.append(HistorianGenerator())
     #listy.append(IndustryGenerator())
     #listy.append(ComplexGenerator())
     #listy.append(MonarchGenerator())
@@ -167,6 +174,7 @@ def RandSubject2():
     #listy.append(CurrencyGeneratorMod())
     listy.append(EmpireGenerator())
     #listy.append(EmpireGeneratorMod())
+    #listy.append(HistorianGenerator())
     listy.append(IndustryGenerator())
     listy.append(ComplexGenerator())
     listy.append(MonarchGenerator())
