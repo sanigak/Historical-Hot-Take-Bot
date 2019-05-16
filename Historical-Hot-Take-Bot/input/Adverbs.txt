@@ -1,8 +1,6 @@
 abnormally
 actually
 always
-annually
-anxiously
 arrogantly
 awkwardly
 bashfully
@@ -12,6 +10,8 @@ bleakly
 blindly
 blissfully
 boldly
+catastrophically
+conspicuously
 clearly
 cleverly
 correctly
